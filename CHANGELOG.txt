@@ -1,0 +1,7 @@
+Ultimate Edition 6.1 — 25 Oct 2026
+- Mobile-first: safe-area spacing, dynamic viewport height, touch controls for phones and touch-enabled tablets, and orientation/visual-viewport resize handling.
+- New white boy-cat sprite: blue bandana and gold star charm.
+- New black girl-puppy sprite: pink bow, lavender collar and heart tag.
+- Extra fireflies, soft city sparkles and drifting pink petals.
+- Mobile hints updated for touch controls; chapter text now refers to the black puppy as female.
+- Original title screen art preserved.
